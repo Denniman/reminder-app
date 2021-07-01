@@ -21,7 +21,7 @@ import {peopleData} from '../data'
              )  
             })}
 
-            <button className="btn" onClick={() => setPeople([])}>Clear All</button>
+            <button className="btn" onClick={() => setPeople([])}>Clear All Birthdays</button>
         </div>
     
     )
